@@ -15,6 +15,7 @@
 目录如下：
 
 [面试篇](https://github.com/Rooaw/beginning-frontend/blob/master/01.%20%E9%9D%A2%E8%AF%95/01-%E9%9D%A2%E8%AF%95.md)
+[HTML](https://github.com/Rooaw/beginning-frontend/blob/master/02.%20HTML/HTML.md)
 
 我在学 winter 老师的「重学前端」，虽然这门课程不太适合初学者，但是我会尽力和初学者知识融合起来，希望能让你们对前端会有一个更深层次的认知，起码对前端结构有一个新的认识，有些地方可能会直接仿照 winter 老师，比如 HTML 的教学的话就是让你们写一个 wiki 网页。
 
