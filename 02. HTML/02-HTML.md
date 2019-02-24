@@ -26,7 +26,7 @@ HTML 也是一种语言，用来描述网页。
 
 #### 标签属性
 
-属性是写在开始标签里的，形式是：属性名=属性值，比如 a 标签跳转的属性是 「href」 ，我们要跳转的地方是：「http://www.w3school.com.cn/html/html_links.asp」
+属性是写在开始标签里的，形式是：属性名=属性值，比如 a 标签跳转的属性是 「href」 ，我们要跳转的地方是：http://www.w3school.com.cn/html/html_links.asp
 
 那就这样写：
 
