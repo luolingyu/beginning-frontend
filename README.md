@@ -22,7 +22,7 @@
 
 [JS 目录](https://github.com/Rooaw/beginning-frontend/tree/master/04.%20JS)：
 
-- [JS-01基础知识](https://github.com/Rooaw/beginning-frontend/blob/master/04.%20JS/01-JS%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
+1. [JS-01基础知识](https://github.com/Rooaw/beginning-frontend/blob/master/04.%20JS/01-JS%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
 我在学 winter 老师的「重学前端」，虽然这门课程不太适合初学者，但是我会尽力和初学者知识融合起来，希望能让你们对前端会有一个更深层次的认知，起码对前端结构有一个新的认识，有些地方可能会直接仿照 winter 老师，比如 HTML 的教学的话就是让你们写一个 wiki 网页。
 
